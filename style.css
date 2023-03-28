@@ -1,0 +1,44 @@
+#start-btn#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+img
+{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+.column
+{
+    display:inline;
+    padding: 10px;
+}
+img:hover{
+    border-radius: 140px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color:chartreuse;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+background-color:azure;
+}
+body
+{
+background-image: linear-gradient(to right top, #08f840, #25d9d3, #1861c1, #0a4aaa, #180adc);
+}
+h1{
+    font-weight: bold;
+    font-family:fantasy;
+    font-style:italic;
+}
